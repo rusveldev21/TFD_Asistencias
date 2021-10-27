@@ -1,0 +1,16 @@
+com/tfd/tfd_asistencias/databinding/AppBarMainBinding.java
+ com.tfd.tfd_asistencias.databinding.AppBarMainBinding
+com/tfd/tfd_asistencias/databinding/FragmentHomeBinding.java
+ com.tfd.tfd_asistencias.databinding.FragmentHomeBinding
+com/tfd/tfd_asistencias/databinding/NavHeaderMainBinding.java
+ com.tfd.tfd_asistencias.databinding.NavHeaderMainBinding
+com/tfd/tfd_asistencias/BuildConfig.java
+ com.tfd.tfd_asistencias.BuildConfig
+com/tfd/tfd_asistencias/databinding/ContentMainBinding.java
+ com.tfd.tfd_asistencias.databinding.ContentMainBinding
+com/tfd/tfd_asistencias/databinding/ActivityMainBinding.java
+ com.tfd.tfd_asistencias.databinding.ActivityMainBinding
+com/tfd/tfd_asistencias/databinding/FragmentSlideshowBinding.java
+ com.tfd.tfd_asistencias.databinding.FragmentSlideshowBinding
+com/tfd/tfd_asistencias/databinding/FragmentGalleryBinding.java
+ com.tfd.tfd_asistencias.databinding.FragmentGalleryBinding

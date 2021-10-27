@@ -1,0 +1,2 @@
+rootProject.name = "TFD_Asistencias"
+include ':app'
